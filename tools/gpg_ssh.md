@@ -8,7 +8,9 @@
 * 同样的SSH也有一样的问题，解决方法也是类似，在提示输入密码保护private key时，直接点‘enter’
 * 如果你安装的是最新的GPG，安装完成后，执行 gpg --version 报这个错 -bash: gpg: command not found的话， 打此命令gpg2 --version，如果显示类似以下这样
   > gpg (GnuPG) 2.2.15
+
   > libgcrypt 1.8.4
+
   > Copyright (C) 2019 Free Software Foundation, Inc.
 
 * 那就说明没有问题，接下来所有的命令 **gpg** 都需要替换成 **gpg2**
@@ -18,6 +20,7 @@
 
 * 接下来需要执行以下命令,如果想要适用于任何地方--global不可省略，只在本工程中使用省略之
   > git config (--global) user.signingkey 3AA5C34371567BD2
+  
   > git config (--global) commit.gpgsign true
 * 这样还没有完全解决，因为在提交时git会自动调用**gpg**，所以需要执行之下的代码,，更改GitHub默认的gpg执行程序
   > git config --global gpg.program gpg2
