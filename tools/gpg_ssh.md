@@ -16,5 +16,12 @@ Copyright (C) 2019 Free Software Foundation, Inc.
 假设你的sec为 '3AA5C34371567BD2'，使用以下命令导出，copy到GitHub add gpg key才能使用
   > gpg2 --armor --export 3AA5C34371567BD2
 
+* 接下来需要执行以下命令,如果想要适用于任何地方--global不可省略，只在本工程中使用省略之
+  >git config (--global) user.signingkey 3AA5C34371567BD2
+git config (--global) commit.gpgsign true
 * 这样还没有完全解决，因为在提交时git会自动调用**gpg**，所以需要执行之下的代码,，更改GitHub默认的gpg执行程序
   > git config --global gpg.program gpg2
+
+###### 如果不确认之前生成了gpg private key 可使用 gpg2 --list-secret-keys --keyid-format LONG 查看
+###### 如果重新生成了gpg key，配置了之前key的工程中需要执行
+> git config (--global) user.signingkey newkey
