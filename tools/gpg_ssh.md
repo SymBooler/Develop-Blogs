@@ -1,4 +1,3 @@
-# 写此的目的
 ## mac下我在配置GPG,SSH时遇到的一些坑在此备注，旨在自己或他人遇到相同问题时更容易解决
 1. create GPG key 依照 [GitHub GPG 生成教程](https://help.github.com/en/articles/generating-a-new-gpg-key)
 在github commit/push 时总是需要输入密码才行。
