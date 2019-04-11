@@ -18,8 +18,10 @@
     ```gpg2 --armor --export 3AA5C34371567BD2```
 
 5. 接下来需要执行以下命令,如果想要适用于任何地方--global不可省略，只在本工程中使用则省略之
-    `git config (--global) user.signingkey 3AA5C34371567BD2`
-    `git config (--global) commit.gpgsign true`
+    ```
+    git config (--global) user.signingkey 3AA5C34371567BD2
+    git config (--global) commit.gpgsign true
+    ```
 6. 这样还没有完全解决，因为在提交时git会自动调用**gpg**，所以需要执行之下的代码,，更改GitHub默认的gpg执行程序
   `git config --global gpg.program gpg2`
 
