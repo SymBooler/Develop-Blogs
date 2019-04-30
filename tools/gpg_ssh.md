@@ -27,3 +27,9 @@
 ###### 如果不确认之前生成了gpg private key 可使用 gpg2 --list-secret-keys --keyid-format LONG 查看
 ###### 如果重新生成了gpg key，配置了之前key的工程中需要执行
 `git config (--global) user.signingkey newkey`
+
+## ssh 
+```
+ssh-keygen -t rsa -b 4096 -C "your-email.com"
+pbcopy < ~/.ssh/id_rsa.pub
+```
