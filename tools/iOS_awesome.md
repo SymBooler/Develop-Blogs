@@ -9,6 +9,21 @@
 
 * [弹框](https://github.com/Orderella/PopupDialog)
 
+* [FoldingTabBar](https://github.com/Yalantis/FoldingTabBar.iOS)
+
+* [版本检查并弹框提示](https://github.com/ArtSabintsev/Siren)
+
+* [针对不同国家手机号识别、格式化](https://github.com/marmelroy/PhoneNumberKit)
+
+* [CollectionView 支持组合不同的layout](https://github.com/SoySauceLab/CollectionKit)
+
+* [NotificationBanner](https://github.com/Daltron/NotificationBanner)
+
+* [iOS权限管理](https://github.com/ivanvorobei/SPPermissions)
+
+* [高可定制的TabBar](https://github.com/eggswift/ESTabBarController)
+
+
 ##### Swift
 
 * [DateTools](https://github.com/MatthewYork/DateTools)
@@ -19,12 +34,15 @@
 
 * [Swift Tips](https://github.com/JohnSundell/SwiftTips)
 
+* [现代的UserDefaults](https://github.com/sunshinejr/SwiftyUserDefaults)
+
 ##### SwiftUI
 
 * [SwiftUI Docs](https://github.com/SwiftOnTap/Docs)
 
 ##### 多样的Swift
-* [函数式Swift](https://github.com/typelift/Swiftz)
+* [函数式Swift 工具 Swiftz](https://github.com/typelift/Swiftz)
+* [函数式Swift 工具 Dollar](https://github.com/ankurp/Dollar)
 
 ##### 编译
 
