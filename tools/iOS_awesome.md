@@ -23,6 +23,33 @@
 
 * [高可定制的TabBar](https://github.com/eggswift/ESTabBarController)
 
+* [ImagePicker](https://github.com/hyperoslo/ImagePicker)
+
+* [alerts-and-pickers](https://github.com/dillidon/alerts-and-pickers)
+
+* [Android PagerTabStrip for iOS.](https://github.com/xmartlabs/XLPagerTabStrip)
+
+* [可折叠的Cell](https://github.com/Ramotion/folding-cell)
+
+* [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout)
+
+* [CKWaveCollectionViewTransition - 带专场的CollectionView](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition)
+
+* [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout)
+
+* [Cartography- DSL Layout](https://github.com/robb/Cartography)
+
+* [PureLayout](https://github.com/PureLayout/PureLayout)
+
+* [LayoutKit](https://github.com/LinkedInAttic/LayoutKit)
+
+* [layout](https://github.com/nicklockwood/layout)
+
+* [layout](https://github.com/nicklockwood/layout)
+
+* [BetterCodable](https://github.com/marksands/BetterCodable)
+
+* [ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor)
 
 ##### Swift
 
@@ -36,13 +63,28 @@
 
 * [现代的UserDefaults](https://github.com/sunshinejr/SwiftyUserDefaults)
 
+* [验证码识别](https://github.com/NMAC427/SwiftOCR)
+
+* [Physics-based animations](https://github.com/timdonnelly/Advance)
+
+* [OHHTTPStubs - Mock Http](https://github.com/AliSoftware/OHHTTPStubs)
+
+* [ZipArchive](https://github.com/ZipArchive/ZipArchive)
+
+* [Swift加解密工具包](https://github.com/krzyzanowskim/CryptoSwift)
+
 ##### SwiftUI
 
 * [SwiftUI Docs](https://github.com/SwiftOnTap/Docs)
 
+* [About-SwiftUI](https://github.com/Juanpe/About-SwiftUI)
+
+
+
 ##### 多样的Swift
 * [函数式Swift 工具 Swiftz](https://github.com/typelift/Swiftz)
 * [函数式Swift 工具 Dollar](https://github.com/ankurp/Dollar)
+* [Unidirectional Data Flow in Swift - Inspired by Redux](https://github.com/ReSwift/ReSwift)
 
 ##### 编译
 
@@ -64,6 +106,8 @@
 ##### 数据持久
 * [CoreData上层轻量级API](https://github.com/terhechte/CoreValue)
 
+* [MMKV](https://github.com/Tencent/MMKV)
+
 ##### 图形
 * [Metal](https://github.com/MetalKit/metal)
 
@@ -77,3 +121,22 @@
 
 ##### 面试
 * [招聘一个靠谱的iOSer](https://github.com/ChenYilong/iOSInterviewQuestions)
+
+##### Git
+* [gitignore](https://github.com/toptal/gitignore.io)
+
+##### 内购
+* [StoreKit](https://github.com/bizz84/SwiftyStoreKit)
+
+##### Blog
+* [最佳实践](https://github.com/futurice/ios-good-practices)
+
+* [draveness](https://github.com/draveness/analyze)
+
+##### DeviceSupport
+
+* [DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport)
+
+##### Editor
+
+* [CodeEditor](https://github.com/kuyawa/CodeEditor)
