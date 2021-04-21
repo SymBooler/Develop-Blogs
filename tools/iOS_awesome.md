@@ -158,7 +158,7 @@
 
 ##### Swift
 
-* [oolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.](https://github.com/malcommac/SwiftDate)
+* [toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.](https://github.com/malcommac/SwiftDate)
 
 * [DateTools](https://github.com/MatthewYork/DateTools)
 
