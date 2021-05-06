@@ -37,8 +37,6 @@
 
 * [Fully customizable pull-to-refresh control inspired by Storehouse iOS app](https://github.com/coolbeet/CBStoreHouseRefreshControl)
 
-* [Implicitly make every view controller has its own navigation bar](https://github.com/rickytan/RTRootNavigationController)
-
 * [A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display](https://github.com/dzenbot/DZNEmptyDataSet)
 
 * [An elegant search controller which replaces the UISearchController for iOS (iPhone & iPad)](https://github.com/ko1o/PYSearch)
