@@ -224,6 +224,8 @@
 
 * [Type-erased wrappers for Encodable, Decodable, and Codable values](https://github.com/Flight-School/AnyCodable)
 
+* [A convenient way to handle default values with Swift Codable types](https://github.com/gonzalezreal/DefaultCodable)
+
 * [Elegant iOS form builder in Swift](https://github.com/xmartlabs/Eureka)
 
 * [A library to simplify iOS animations in Swift](https://github.com/MengTo/Spring)
