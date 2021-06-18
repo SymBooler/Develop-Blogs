@@ -262,7 +262,7 @@
 
 * [ChartView made in SwiftUI](https://github.com/AppPear/ChartView)
 
-
+* [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data](https://github.com/ivanvorobei/SwiftUI)
 
 ##### Swift Learning
 
