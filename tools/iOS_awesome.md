@@ -3,6 +3,8 @@
 
 * [样式丰富的button](https://github.com/pmusolino/PMSuperButton)
 
+* [可调整Image、Title相对位置的Button](https://github.com/mervynokm/UIButton-ImageAndTitlePositioning)
+
 * [带menu的tableView](https://github.com/Yalantis/Persei)
 
 * [内容可滚动的Label，跑马灯](https://github.com/cbpowell/MarqueeLabel)
