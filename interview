@@ -1,0 +1,2 @@
+1. isKindOfClass 和 isMemberOfClass 区别
+答： isKindOfClass来确定一个对象是否是一个类的成员，或者是派生自该类的成员 isMemberOfClass只能确定一个对象是否是当前类的成员 例如：我们已经成NSObject派生了自己的类，isMemberOfClass不能检测任何的类都是基于NSObject类这一事实，而isKindOfClass可以
